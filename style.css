@@ -98,3 +98,6 @@ padding: 10px;
 #introduction p {
 margin-bottom: 40px;
 }
+
+.fa-facebook-square:before {
+  content: "\f082"; }
